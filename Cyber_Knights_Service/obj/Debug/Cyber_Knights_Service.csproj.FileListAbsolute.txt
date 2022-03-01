@@ -1,0 +1,21 @@
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.csproj.AssemblyReference.cache
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.csproj.CoreCompileInputs.cache
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\bin\Cyber_Knights_Service.dll.config
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\bin\Cyber_Knights_Service.dll
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\bin\Cyber_Knights_Service.pdb
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.dll
+C:\Users\misom\Desktop\Cyber_Knights_Service\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.pdb
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\bin\Cyber_Knights_Service.dll.config
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\bin\Cyber_Knights_Service.dll
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\bin\Cyber_Knights_Service.pdb
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.csproj.AssemblyReference.cache
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.csproj.CoreCompileInputs.cache
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.dll
+C:\Users\misom\Desktop\Cyberknights group project\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.pdb
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\bin\Cyber_Knights_Service.dll.config
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\bin\Cyber_Knights_Service.dll
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\bin\Cyber_Knights_Service.pdb
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.csproj.AssemblyReference.cache
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.csproj.CoreCompileInputs.cache
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.dll
+C:\Users\misom\Documents\University of Johannesburg\Web Services\Cyber_Knights_Service\obj\Debug\Cyber_Knights_Service.pdb

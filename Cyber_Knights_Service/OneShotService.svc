@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Cyber_Knights_Service.OneShotService" CodeBehind="OneShotService.svc.cs" %>
